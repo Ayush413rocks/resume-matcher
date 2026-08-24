@@ -1,0 +1,11 @@
+resume_id,job_id,human_score
+r1_ml_engineer,j1_ml_engineer_role,90
+r1_ml_engineer,j2_nlp_engineer_role,45
+r2_frontend_dev,j1_ml_engineer_role,10
+r2_frontend_dev,j2_nlp_engineer_role,5
+r3_data_analyst,j1_ml_engineer_role,25
+r3_data_analyst,j2_nlp_engineer_role,10
+r4_backend_swe,j1_ml_engineer_role,35
+r4_backend_swe,j2_nlp_engineer_role,15
+r5_nlp_researcher,j1_ml_engineer_role,50
+r5_nlp_researcher,j2_nlp_engineer_role,95
